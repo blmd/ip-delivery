@@ -1,11 +1,13 @@
 <?php
 /*
 Plugin Name: IP Delivery
-Plugin URI: http://github.com/blmd/ip-delivery
+Plugin URI: https://github.com/blmd/ip-delivery
 Description: IP Delivery
 Author: blmd
-Author URI: http://github.com/blmd
-Version: 0.1
+Author URI: https://github.com/blmd
+Version: 0.2
+
+GitHub Plugin URI: https://github.com/blmd/ip-delivery
 */
 
 !defined( 'ABSPATH' ) && die;
